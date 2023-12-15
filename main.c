@@ -31,7 +31,7 @@
 
 #include <Wire.h>
 #include <MCP23x17.h>
-#include <MCP23017.h>
+#include <MCP23017.h>//https://voltiq.ru/datasheets/MCP23x17.zip
 
 /* USER CODE END Includes */
 
